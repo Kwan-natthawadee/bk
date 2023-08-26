@@ -1,0 +1,362 @@
+body{
+
+    background-color:black;
+    margin: 0;
+}
+
+
+
+.img {
+    background-image: url(https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80);
+    height:750px ;  
+    width: 150%;
+    background-size: cover;
+    background-position: top center;
+    justify-content: center;
+    margin-right: -50px;
+
+
+}
+.Kwan{
+  height:750px ; 
+  width: 100%;
+  text-align: center;
+  color:white;
+  background-color: rgba(0, 0, 0, 0.703);
+}
+ .Kwan > h1{
+    font-size:15px;
+    background-color: rgba(0, 0, 0, 0.176);
+    border: none;
+    border-radius: 30px;
+    color: aliceblue;
+    height: 20px;
+    width: 130px;
+    position: relative;
+    left: 850px;
+    
+ }
+ .Kwan >h2{
+    font-size: 50px;
+ }
+ .Kwan >h3{
+    font-size: 30px;
+ }
+ .N {
+    font-size: 30px;
+    background-color:blue;
+    border: none;
+    border-radius: 5px;
+    color:white;
+    height: 70px;
+    width: 200px;
+ }
+ .bbb {
+    background-color:#23232393;
+    height: 500px;
+    width: 129%;
+    position: absolute;
+    top: 800px;
+    left: 125px;
+    background-size: cover;
+    background-position: center;
+    justify-content: center;
+    border: none;
+    border-radius: 30px;
+    text-align: center;
+ }
+ .bbb>h1{
+    position: absolute;
+    font-size: 15px;
+    color: grey;
+    top: -15px;
+    left: -10px;
+ }
+ .bbb>button{
+    position: absolute;
+    font-size: 15px;
+    background-color: #59585892;
+    border: none;
+    border-radius: 30px;
+    height: 25px;
+    width: 200px;
+    color: grey;
+    top: 15px;
+    left: 610px;
+ }
+ .bbb>h3{
+    font-size: 50px;
+    color: white;
+    position: absolute;
+    left: 400px;
+    top: 10px;
+ }
+ .bbb>p{
+    font-size: 20px;
+    color: grey;
+    position: absolute;
+    left: 310px;
+    top: 120px;
+ }
+.bbb>h6{
+   font-size: 19px;
+   color:grey;
+   position: absolute;
+   left: 300px;
+   top: 125px;
+}
+ .bbb>h5{
+    font-size: 19px;
+    color: white;
+    position: absolute;
+    left: 490px;
+    top: 165px;
+ }
+ 
+ .bbb>h2{
+    font-size: 50px;
+    color: white;
+    position: absolute;
+    left: 595px;
+    top: 250px;
+ }
+ .bbb>p1{
+    font-size: 20px;
+    color: white;
+    position: absolute;
+    left: 320px;
+    top: 370px;
+ }
+ .bbb>p2{
+    font-size: 20px;
+    color: white;
+    position: absolute;
+    left: 545px;
+    top: 400px;
+ }
+ .NNN{
+    width: 100%;
+    position: absolute;
+    top: 1380px;
+    color: white;
+    text-align: center;
+    background-color:black;
+}
+.NNN > button {
+    border: none;
+    border-radius: 20px;
+    text-align: center;
+    font-size: 12px;
+    color: rgb(219, 213, 213);
+    background-color: rgb(72, 72, 75);
+    height: 22px;
+    width: 6%;
+    position: absolute;
+    left: 790px;
+  
+}
+.NNN> h1{
+    position: absolute;
+    top: 8px;
+    left: 650px;
+    font-size: 50px;
+    margin: 14px;
+}
+.NNN > p {
+    position: absolute;
+    top: 80px;
+    left: 635px;
+    font-size: 19px;
+    color: rgba(245, 236, 236, 0.699);
+    margin: 10px;
+}
+.KK{
+    display: grid;
+   grid-template-rows: auto auto auto;
+
+}
+.MM{
+    border: none;
+    border-radius: 20px;
+    position: absolute;
+    top: 180px;
+    left: 150px;
+    width: 300px;
+    height: 400px;
+    color: white;
+    background-color:rgba(255, 255, 255, 0.486);
+}
+.MM>img {
+    width: 100%;
+    height: 200;
+    object-fit: cover;
+}
+.MM>h4 {
+    position: absolute;
+    top: 190px;
+   margin-left: 20px;
+}
+.MM>p {
+    position: absolute;
+    top: 260px;
+    font-size: 19px;
+    color: rgba(255, 255, 255, 0.301);
+}
+.SS{
+    border: none;
+    border-radius: 20px;
+    position: absolute;
+    top: 180px;
+    left: 650px;
+    width: 300px;
+    height: 400px;
+    color: white;
+    background-color:rgba(255, 255, 255, 0.486);
+}
+.SS>img {
+    width: 100%;
+    height: 200;
+    object-fit: cover;
+}
+.SS>h4 {
+    position: absolute;
+    top: 190px;
+   margin-left: 20px;
+}
+.SS>p {
+    position: absolute;
+    top: 260px;
+    font-size: 19px;
+    color: rgba(255, 255, 255, 0.301);
+}
+.OO{
+    border: none;
+    border-radius: 20px;
+    position: absolute;
+    top: 180px;
+    left: 1150px;
+    width: 300px;
+    height: 400px;
+    color: white;
+    background-color:rgba(255, 255, 255, 0.481);
+}
+.OO>img {
+    width: 100%;
+    height: 200;
+    object-fit: cover;
+}
+.OO>h4 {
+    position: absolute;
+    top: 190px;
+   margin-left: 20px;
+}
+.OO>p {
+    position: absolute;
+    top: 260px;
+    font-size: 19px;
+    color: rgba(255, 255, 255, 0.301);
+}
+.GGG{
+    border: none;
+    border-radius: 20px;
+    position: absolute;
+    top: 720px;
+    left: 150px;
+    width: 300px;
+    height: 400px;
+    color: white;
+    background-color:rgba(255, 255, 255, 0.486);
+}
+.GGG>img {
+    width: 100%;
+    height: 200;
+    object-fit: cover;
+}
+.GGG>h4 {
+    position: absolute;
+    top: 200px;
+   margin-left: 20px;
+}
+.GGG>p {
+    position: absolute;
+    top: 260px;
+    font-size: 19px;
+    color: rgba(255, 255, 255, 0.301);
+}
+.FF{
+    border: none;
+    border-radius: 20px;
+    position: absolute;
+    top: 720px;
+    left: 650px;
+    width: 300px;
+    height: 400px;
+    color: white;
+    background-color:rgba(255, 255, 255, 0.486);
+}
+.FF>img {
+    width: 100%;
+    height: 200;
+    object-fit: cover;
+}
+.FF>h4 {
+    position: absolute;
+    top: 190px;
+   margin-left: 20px;
+}
+.FF>p {
+    position: absolute;
+    top: 260px;
+    font-size: 19px;
+    color: rgba(255, 255, 255, 0.301);
+}
+.XX{
+    border: none;
+    border-radius: 20px;
+    position: absolute;
+    top: 720px;
+    left: 1150px;
+    width: 300px;
+    height: 400px;
+    color: white;
+    background-color:rgba(255, 255, 255, 0.481);
+}
+.XX>img {
+    width: 100%;
+    height: 200;
+    object-fit: cover;
+}
+.XX>h4 {
+    position: absolute;
+    top: 190px;
+   margin-left: 20px;
+}
+.XX>p {
+    position: absolute;
+    top: 260px;
+    font-size: 19px;
+    color: rgba(255, 255, 255, 0.301);
+}
+.LLL{
+    border: none;
+    border-radius: 20px;
+    position: absolute;
+    top: 1270px;
+    left: 650px;
+    width: 350px;
+    height: 200px;
+    color: white;
+    background-color:rgba(255, 255, 255, 0.486);
+}
+.LLL>h4 {
+    position: absolute;
+    top: 20px;
+   margin-left: 20px;
+}
+.LLL>p {
+    position: absolute;
+    top: 90px;
+    font-size: 19px;
+    color: rgba(255, 255, 255, 0.301);
+}
+
